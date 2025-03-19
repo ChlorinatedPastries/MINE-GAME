@@ -5,13 +5,34 @@
     width: 800px;
 }
 #mine1{
-    width: 600px;
+    width: 33.3333%;
     p.double {border-style: double;}  
     background-color:#565656;
     border: 4px solid hsl(199, 77%, 71%); 
     border-radius: 12px;
     padding: 5px;
-    font-size: 24px;
+    font-size: 48px;
+    float: left;
+}
+#mine2{
+    width: 33.3333%;
+    p.double {border-style: double;}  
+    background-color:#565656;
+    border: 4px solid hsl(199, 77%, 71%); 
+    border-radius: 12px;
+    padding: 5px;
+    font-size: 48px;
+    float: left;
+}
+#mine3{
+    width: 30.4%;
+    p.double {border-style: double;}  
+    background-color:#565656;
+    border: 4px solid hsl(199, 77%, 71%); 
+    border-radius: 12px;
+    padding: 5px;
+    font-size: 48px;
+ float: right;
 }
 #click{
     background-color: #4CAF50;
@@ -25,9 +46,6 @@
     width: 89.9%;
     height: 100px;
     width: 100%;
-}
-#mine1{
-    font-size: 24px;
 }
 .BUY{
     background-color: #4CAF50;
